@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lika0412.github.io/csb-e2o0f/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lika0412.github.io/csb-e2o0f/static/js/main.638392e0.chunk.js",
+    "main.js.map": "https://lika0412.github.io/csb-e2o0f/static/js/main.638392e0.chunk.js.map",
+    "runtime-main.js": "https://lika0412.github.io/csb-e2o0f/static/js/runtime-main.c9775ebe.js",
+    "runtime-main.js.map": "https://lika0412.github.io/csb-e2o0f/static/js/runtime-main.c9775ebe.js.map",
+    "static/js/2.3148f7b1.chunk.js": "https://lika0412.github.io/csb-e2o0f/static/js/2.3148f7b1.chunk.js",
+    "static/js/2.3148f7b1.chunk.js.map": "https://lika0412.github.io/csb-e2o0f/static/js/2.3148f7b1.chunk.js.map",
+    "index.html": "https://lika0412.github.io/csb-e2o0f/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lika0412.github.io/csb-e2o0f/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3148f7b1.chunk.js.LICENSE.txt": "https://lika0412.github.io/csb-e2o0f/static/js/2.3148f7b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9775ebe.js",
+    "static/js/2.3148f7b1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.638392e0.chunk.js"
+  ]
+}
